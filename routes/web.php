@@ -14,3 +14,7 @@
 Route::get('/', function () {
     return view('welcome');
 });
+
+Route::any('secret', function () {
+	return 'I Tell You!';
+});
