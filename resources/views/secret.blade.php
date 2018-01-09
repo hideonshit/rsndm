@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
-	<title>Secret</title>
+	<title>燃烧你的梦</title>
 	<!-- <link href="https://cdn.bootcss.com/bootstrap/4.0.0-beta.2/css/bootstrap-grid.css" rel="stylesheet"> -->
 	<style type="text/css">
 		*{   
@@ -28,7 +28,7 @@
 </head>
 <body>
 
-<img src="{{ URL::asset('/images/res.jpg') }}" alt="" class="center">
+<img src="{{ URL::asset('/images/res2.jpg') }}" alt="" class="center">
 
 <script src="https://cdn.bootcss.com/jquery/1.8.3/jquery.js"></script> 
 </body>
